@@ -7,6 +7,7 @@ List of resources to learn smart contract hacking.
 
 <li><a href="https://youtu.be/SSo_EIwHSd4">How does a blockchain work - Simply Explained</a></li>
 <li><a href="https://youtu.be/RplnSVTzvnU">How the blockchain will radically transform the economy | Bettina Warburg</a></li>
+<li><a href="https://blog.cubed.run/advanced-blockchain-mastering-how-blockchain-works-a8c2ff3fbb5f">Advanced Blockchain: Mastering How Blockchain Works v2</a></li>
 
 <h3>Smart Contract 101</h3>
 
